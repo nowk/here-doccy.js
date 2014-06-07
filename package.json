@@ -1,0 +1,23 @@
+{
+  "name": "here-doccy",
+  "version": "0.0.0",
+  "description": "Heredocs... kind of",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nowk/here-doccy.js.git"
+  },
+  "keywords": [
+    "heredoc",
+    "javascript"
+  ],
+  "author": "Yung Hwa Kwon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nowk/here-doccy.js/issues"
+  },
+  "homepage": "https://github.com/nowk/here-doccy.js"
+}
