@@ -1,5 +1,9 @@
 # here-doccy
 
+[![Build Status](https://travis-ci.org/nowk/here-doccy.js.svg?branch=master)](https://travis-ci.org/nowk/here-doccy.js)
+[![Code Climate](https://codeclimate.com/github/nowk/here-doccy.js.png)](https://codeclimate.com/github/nowk/here-doccy.js)
+[![David DM](https://david-dm.org/nowk/here-doccy.js.png)](https://david-dm.org/nowk/here-doccy.js)
+
 basic heredoc
 
 ## Install
@@ -23,3 +27,6 @@ returns
         - a
         - yaml
 
+### License
+
+MIT
