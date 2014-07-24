@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/nowk/here-doccy.js/issues"
   },
-  "homepage": "https://github.com/nowk/here-doccy.js"
+  "homepage": "https://github.com/nowk/here-doccy.js",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
 }
